@@ -6,11 +6,13 @@
 # By direct or indirect use of the information or functionality provided by these programs. The author or any Internet provider bears 
 # NO responsibility for content or misuse of these programs or any derivatives thereof. By using this program you accept the fact that 
 # any damage caused by the use of this script is not my responsibility.
+# Contact: code2lulz@protonmail.com
 
 import smtplib as s
 import getpass
 
 print"[+] syrius SMS/Email Bomber \n\r"
+print"[+] Contact: code2lulz@protonmail.com \n\r"
 print"[+] Please login with your Gmail account \n\r"
 print"[+] Remember to allow less secure application from your GMail account in order for this script to work \n\r"
 
